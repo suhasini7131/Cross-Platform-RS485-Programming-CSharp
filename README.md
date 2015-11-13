@@ -22,7 +22,7 @@ You can also use <a href = "http://xanthium.in/Robot-MotorControl-RS485-Shield-f
 
 <img src = "http://www.xanthium.in/sites/default/files/site-images/product-page/Robot_shield_msp430_launchpad_250px.jpg" /a>
 
-The Booster Pack is available<a href = "http://xanthium.in/Robot-MotorControl-RS485-Shield-for-MSP430-Launchpad"> online here</a>.
+The Booster Pack is available <a href = "http://xanthium.in/Robot-MotorControl-RS485-Shield-for-MSP430-Launchpad">online here</a>.
 
 The embedded System side code is written in **Embedded C** and compiled using IAR embedded workbench for MSP430
 

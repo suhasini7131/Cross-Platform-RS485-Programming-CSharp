@@ -16,6 +16,15 @@ On the PC side a **USB to RS485 converter** is used to convert the USB signals t
 
 The converter used in the tutorial can be <a href = http://xanthium.in/USB-to-Serial-RS232-RS485-Converter">brought online here </a>.
 
+On the device end, a **MSP430 Launchpad along with a MAX485** chip is used to decode the RS485 protocol and take appropriate action.
+
+You can also use <a href = "http://xanthium.in/Robot-MotorControl-RS485-Shield-for-MSP430-Launchpad">MSP430 Motor control Booster Pack</a> (RobotShield V1.0) for decoding RS485 Signals.
+<img src = "http://www.xanthium.in/sites/default/files/site-images/product-page/Robot_shield_msp430_launchpad_250px.jpg" /a>
+
+The Booster Pack is available<a href = "http://xanthium.in/Robot-MotorControl-RS485-Shield-for-MSP430-Launchpad"> online here</a>.
+
+The embedded System side code is written in **Embedded C** and compiled using IAR embedded workbench for MSP430
+
 ####ScreenShots (Windows)
 
 <img src = "http://xanthium.in/sites/default/files/site-images/RS485-comm-Csharp/USB-to-RS485-Communication-Writing-Win32.jpg"/>
